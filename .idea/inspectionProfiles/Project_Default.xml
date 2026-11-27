@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohttp" />
+          <option value="pymupdf" />
+          <option value="concurrent-log-handler" />
+          <option value="python-multipart" />
+          <option value="mistune" />
+          <option value="elasticsearch7" />
+          <option value="elasticsearch" />
+          <option value="beautifulsoup4" />
+          <option value="lxml" />
+          <option value="pyyaml" />
+          <option value="requests" />
+          <option value="uvicorn" />
+          <option value="fastapi" />
+          <option value="pydantic" />
+          <option value="qdrant-client" />
+          <option value="portalocker" />
+          <option value="python-dotenv" />
+          <option value="pycryptodome" />
+          <option value="numpy" />
+          <option value="python-docx" />
+          <option value="python-pptx" />
+          <option value="openpyxl" />
+          <option value="xlrd" />
+          <option value="pillow" />
+          <option value="py-zipkin" />
+          <option value="prometheus-client" />
+          <option value="psutil" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,16 @@
+[project]
+name = "blisflow"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Rowan", email = "356138935+Thea-Wynne-Blis@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+blisflow = "blisflow:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
